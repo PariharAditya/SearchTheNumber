@@ -69,15 +69,15 @@ public class Game {
             else if(secretNumber==5)
             System.out.println("Cost of tapri chai");
             else if(secretNumber==6)
-            System.out.println("hintfor6");
+            System.out.println("The First common multiple of starting two number");
             else if(secretNumber==7)
-            System.out.println("hintfor7");
+            System.out.println("Cristiano Ronaldo");
             else if(secretNumber==8)
-            System.out.println("hintfor8");
+            System.out.println("The number of hoocruxes in Harry Potter");
             else if(secretNumber==9)
-            System.out.println("hintfor9");
+            System.out.println("Jewels if Akbar");
             else if(secretNumber==10)
-            System.out.println("hintfor10");
+            System.out.println("The number of heads Ravana had");
             else if(secretNumber==11)
             System.out.println("Twins when you start the counting again");
             else if(secretNumber==12)
@@ -85,7 +85,7 @@ public class Game {
             else if(secretNumber==13)
             System.out.println("6th prime number");
             else if(secretNumber==14)
-            System.out.println("");
+            System.out.println("Valentine week");
             else if(secretNumber==15)
             System.out.println("Thrice of 3rd prime number");
             else if(secretNumber==16)
@@ -121,15 +121,15 @@ public class Game {
             else if(secretNumber==5)
             System.out.println("Cost of tapri chai");
             else if(secretNumber==6)
-            System.out.println("hintfor6");
+            System.out.println("The First common multiple of starting two number");
             else if(secretNumber==7)
-            System.out.println("hintfor7");
+            System.out.println("Cristiano Ronaldo");
             else if(secretNumber==8)
-            System.out.println("hintfor8");
+            System.out.println("The number of hoocruxes in Harry Potter");
             else if(secretNumber==9)
-            System.out.println("hintfor9");
+            System.out.println("Jewels if Akbar");
             else if(secretNumber==10)
-            System.out.println("hintfor10");
+            System.out.println("The number of heads Ravana had");
             else if(secretNumber==11)
             System.out.println("one's & ten's place are same");
             else if(secretNumber==12)
@@ -137,7 +137,7 @@ public class Game {
             else if(secretNumber==13)
             System.out.println("6th prime number");
             else if(secretNumber==14)
-            System.out.println("");
+            System.out.println("Valentine week");
             else if(secretNumber==15)
             System.out.println("Thrice of 3rd prime number");
             else if(secretNumber==16)
