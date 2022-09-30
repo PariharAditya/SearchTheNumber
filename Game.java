@@ -73,7 +73,7 @@ public class Game {
             else if(secretNumber==7)
             System.out.println("Cristiano Ronaldo");
             else if(secretNumber==8)
-            System.out.println("The number of hoocruxes in Harry Potter");
+            System.out.println("The number of Hoocruxes in Harry Potter");
             else if(secretNumber==9)
             System.out.println("Jewels if Akbar");
             else if(secretNumber==10)
