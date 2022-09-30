@@ -119,7 +119,7 @@ public class Game {
             else if(secretNumber==4)
             System.out.println("Double Date!");
             else if(secretNumber==5)
-            System.out.println("Cost of tapri chai");
+            System.out.println("Cost of Tapri Chai");
             else if(secretNumber==6)
             System.out.println("The First common multiple of starting two number");
             else if(secretNumber==7)
