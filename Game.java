@@ -95,7 +95,7 @@ public class Game {
             else if(secretNumber==18)
             System.out.println("Twice of 2nd prime number X 2");
             else if(secretNumber==19)
-            System.out.println("index is 7 in array of prime number");
+            System.out.println("index is Seven in array of prime number");
             else if(secretNumber==20)
             System.out.println("5X2X2");
         }
