@@ -59,45 +59,45 @@ public class Game {
             }    
             System.out.println("Try Again! Chances remaining -> "+ numberOfTurnsLeft);
             if(secretNumber==1)
-            System.out.println("The Chosen");
+            System.out.println("in the array of numbers I've index 0");
             else if(secretNumber==2)
-            System.out.println("Minute ki Maggi!");
+            System.out.println("hintfor2");
             else if(secretNumber==3)
-            System.out.println("Gandhi ji ka kitna bandar");
+            System.out.println("hintfor3");
             else if(secretNumber==4)
-            System.out.println("Double Date!");
+            System.out.println("hintfor4");
             else if(secretNumber==5)
-            System.out.println("Cost of Chai");
+            System.out.println("hintfor5");
             else if(secretNumber==6)
-            System.out.println("the first common multiple of the two starting prime numbers ");
+            System.out.println("hintfor6");
             else if(secretNumber==7)
-            System.out.println("cristiano ronaldo");
+            System.out.println("hintfor7");
             else if(secretNumber==8)
-            System.out.println("the number of hoocruxes in harry potter");
+            System.out.println("hintfor8");
             else if(secretNumber==9)
-            System.out.println("akbar has this many jewels");
+            System.out.println("hintfor9");
             else if(secretNumber==10)
-            System.out.println("Raavan has this many heads");
+            System.out.println("hintfor10");
             else if(secretNumber==11)
-            System.out.println("hintfor11");
+            System.out.println("Twins when you start the counting again");
             else if(secretNumber==12)
-            System.out.println("hintfor12");
+            System.out.println("number just after twins");
             else if(secretNumber==13)
-            System.out.println("hintfor13");
+            System.out.println("6th prime number");
             else if(secretNumber==14)
-            System.out.println("hintfor14");
+            System.out.println("");
             else if(secretNumber==15)
-            System.out.println("hintfor15");
+            System.out.println("Thrice of 3rd prime number");
             else if(secretNumber==16)
-            System.out.println("hintfor16");
+            System.out.println("Half of number of days in a month+1");
             else if(secretNumber==17)
-            System.out.println("hintfor17");
+            System.out.println("4th prime number + twice of five");
             else if(secretNumber==18)
-            System.out.println("hintfor18");
+            System.out.println("Twice of 2nd prime number X 2");
             else if(secretNumber==19)
-            System.out.println("hintfor19");
+            System.out.println("index is 7 in array of prime number");
             else if(secretNumber==20)
-            System.out.println("hintfor20");
+            System.out.println("5X2X2");
         }
         /* Check if inputNumber is higher
         than secretNumber */        
@@ -111,45 +111,45 @@ public class Game {
             }
             System.out.println("Try Again! Chances remaining ->"+ numberOfTurnsLeft);
             if(secretNumber==1)
-            System.out.println("The Chosen");
+            System.out.println("hintfor1");
             else if(secretNumber==2)
-            System.out.println("Minute ki Maggi!");
+            System.out.println("hintfor2");
             else if(secretNumber==3)
-            System.out.println("Gandhi ji ka kitna bandar");
+            System.out.println("hintfor3");
             else if(secretNumber==4)
-            System.out.println("Double Date!");
+            System.out.println("hintfor4");
             else if(secretNumber==5)
-            System.out.println("Cost of Chai");
+            System.out.println("hintfor5");
             else if(secretNumber==6)
-            System.out.println("the first common multiple of the two starting prime numbers");
+            System.out.println("hintfor6");
             else if(secretNumber==7)
-            System.out.println("cristiano ronaldo");
+            System.out.println("hintfor7");
             else if(secretNumber==8)
-            System.out.println("the number of hoocruxes in harry potter");
+            System.out.println("hintfor8");
             else if(secretNumber==9)
-            System.out.println("akbar has this many jewels")  ;
+            System.out.println("hintfor9");
             else if(secretNumber==10)
-            System.out.println("Raavan has this many heads");
+            System.out.println("hintfor10");
             else if(secretNumber==11)
-            System.out.println("hintfor11 ");
+            System.out.println("one's & ten's place are same");
             else if(secretNumber==12)
-            System.out.println("hintfor12");
+            System.out.println("number just after twins");
             else if(secretNumber==13)
-            System.out.println("hintfor13");
+            System.out.println("6th prime number");
             else if(secretNumber==14)
-            System.out.println("the day falls under valentine's week");
+            System.out.println("");
             else if(secretNumber==15)
-            System.out.println("hintfor15");
+            System.out.println("Thrice of 3rd prime number");
             else if(secretNumber==16)
-            System.out.println("hintfor16");
+            System.out.println("Half of number of days in a month+1");
             else if(secretNumber==17)
-            System.out.println("hintfor17");
+            System.out.println("4th prime number + twice of five");
             else if(secretNumber==18)
-            System.out.println("hintfor18");
+            System.out.println("Twice of 2nd prime number X 2");
             else if(secretNumber==19)
-            System.out.println("hintfor19");
+            System.out.println("index is 7 in array of prime number");
             else if(secretNumber==20)
-            System.out.println("hintfor20");
+            System.out.println("5X2X2");
         }
         else
         {
