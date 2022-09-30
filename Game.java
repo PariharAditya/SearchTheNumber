@@ -59,15 +59,15 @@ public class Game {
             }    
             System.out.println("Try Again! Chances remaining -> "+ numberOfTurnsLeft);
             if(secretNumber==1)
-            System.out.println("hintfor1");
+            System.out.println("The Chosen");
             else if(secretNumber==2)
-            System.out.println("hintfor2");
+            System.out.println("Minute ki Maggi!");
             else if(secretNumber==3)
-            System.out.println("hintfor3");
+            System.out.println("Gandhi ji ka kitna bandar");
             else if(secretNumber==4)
-            System.out.println("hintfor4");
+            System.out.println("Double Date!");
             else if(secretNumber==5)
-            System.out.println("hintfor5");
+            System.out.println("Cost of Chai");
             else if(secretNumber==6)
             System.out.println("hintfor6 ");
             else if(secretNumber==7)
@@ -111,15 +111,15 @@ public class Game {
             }
             System.out.println("Try Again! Chances remaining ->"+ numberOfTurnsLeft);
             if(secretNumber==1)
-            System.out.println("hintfor1");
+            System.out.println("The Chosen");
             else if(secretNumber==2)
-            System.out.println("hintfor2");
+            System.out.println("Minute ki Maggi!");
             else if(secretNumber==3)
-            System.out.println("hintfor3");
+            System.out.println("Gandhi ji ka kitna bandar");
             else if(secretNumber==4)
-            System.out.println("hintfor4");
+            System.out.println("Double Date!");
             else if(secretNumber==5)
-            System.out.println("hintfor5");
+            System.out.println("Cost of Chai");
             else if(secretNumber==6)
             System.out.println("the first common multiple of the two starting prime numbers");
             else if(secretNumber==7)
